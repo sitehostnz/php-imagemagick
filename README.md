@@ -25,5 +25,5 @@ That's not to say there aren't any limitations, you may find some, but if you do
 
 To learn more about custom images, please see our knowledge base:
 
-Cloud Container - https://kb.sitehost.nz/cloud-containers
+Cloud Container - https://kb.sitehost.nz/cloud-containers   
 Custom Images - https://kb.sitehost.nz/cloud-containers/custom-images
