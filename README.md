@@ -16,7 +16,7 @@ That's not to say there aren't any limitations, you may find some, but if you do
 
 ## The Process
 
-1. [Create a customer image](https://kb.sitehost.nz/cloud-containers/custom-images/create-a-custom-image#image-creation) by forking from one of our exisitng images.  In this example we forked from the Apache + PHP 7.4 image.
+1. [Create a custom image](https://kb.sitehost.nz/cloud-containers/custom-images/create-a-custom-image#image-creation) by forking from one of our exisitng images.  In this example we forked from the Apache + PHP 7.4 image.
 2. Replace your _Dockerfile_ from this example repository.
 3. Copy the _default-data/config/ImageMagick-6/_ from this example repository into the same location (default-data/config/) in your custom image repository.  This directory will contain the ImageMagic config files that you can adjust to your needs.
 4. Commit the changes.
