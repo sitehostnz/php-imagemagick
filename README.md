@@ -1,4 +1,4 @@
-# Custom Image Example Apache PHP + ImageMagick
+# Custom Image Example - Apache PHP + ImageMagick
 
 In this example we will be building an Apache + PHP + ImageMagick forked from one of our existing Apache + PHP images.
 
